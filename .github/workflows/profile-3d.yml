@@ -1,12 +1,7 @@
-name: GitHub Profile 3D Contrib
+name: Generate 3D Profile Card
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -16,11 +11,17 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate 3D profile card
-        uses: Yash-Garg/github-readme-3d-contrib@main
+        uses: jasonlong/gh-profile-card@v1
         with:
-          user_name: Sanduni204
+          user: Sanduni204
+          theme: dark
 
-      - name: Commit & Push the generated files
+      - name: Move output to profile-3d-contrib folder
+        run: |
+          mkdir -p profile-3d-contrib
+          mv card.svg profile-3d-contrib/profile-3d.svg
+
+      - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Generated 3D Profile Card"
