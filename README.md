@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sanduni 👋</h1>
+<h1 align="center">Hey, I'm Sanduni <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> </h1>
 
 
 <p align="center">
@@ -12,9 +12,6 @@
 </p>
 
 ---
-
-## Currently Learning  
-- **MERN Stack**
 
 ## Education  
 - Undergraduate at **Sabaragamuwa University of Sri Lanka**
@@ -41,22 +38,22 @@
 ---
 
 
-## 🔥 Coding Streak  
+## Coding Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sanduni204&theme=gotham&hide_border=false&border_radius=5" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
+## Languages & Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,bootstrap,php,laravel,java,c,mysql,postgres,mongodb,git,postman,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,bootstrap,php,laravel,java,c,mysql,postgres,mongodb,git,postman,figma&perline=8" width="350px" height="350px" />
 </p>
 
 ---
 
 
-## 🤝 Connect with Me  
+## Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/sanduni-galbadaarachchi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
