@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sanduni 👋</h1>
 
-<!--
-**Sanduni204/Sanduni204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=7FFFD4&center=true&vCenter=true&width=550&lines=Tech+Enthusiast;MERN+Stack+Learner;Web+Developer;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Exploring the Horizons of Digital Innovation</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanduni204&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## Currently Learning  
+- **MERN Stack**
+
+## Education  
+- Undergraduate at **Sabaragamuwa University of Sri Lanka**
+
+---
+
+## GitHub Analytics
+
+<table align="center" style="width:100%; max-width:900px; table-layout:fixed; border-collapse:collapse; margin-top:20px;">
+  <tr>
+    <td style="width:50%; padding:10px; text-align:center; vertical-align:middle;">
+      <div style="width:420px; height:250px; margin:0 auto; display:flex; justify-content:center; align-items:center;">
+        <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Sanduni204&count_private=true&show_icons=true&theme=tokyonight" />
+      </div>
+    </td>
+    <td style="width:50%; padding:10px; text-align:center; vertical-align:middle;">
+      <div style="width:420px; height:250px; margin:0 auto; display:flex; justify-content:center; align-items:center;">
+        <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduni204&layout=compact&theme=aura&langs_count=9" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+## 🔥 Coding Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanduni204&theme=gotham&hide_border=false&border_radius=5" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,bootstrap,php,laravel,java,c,mysql,postgres,mongodb,git,postman,figma&perline=8" />
+</p>
+
+---
+
+
+## 🤝 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/sanduni-galbadaarachchi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sandunihansika001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+
