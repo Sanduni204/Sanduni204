@@ -40,7 +40,10 @@
 
 ## Coding Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanduni204&theme=gotham&hide_border=false&border_radius=5" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Sanduni204&theme=gotham&hide_border=false&border_radius=5" 
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
